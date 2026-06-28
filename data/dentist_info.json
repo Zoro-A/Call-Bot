@@ -1,0 +1,111 @@
+{
+  "clinic_name": "Bright Smile Dental",
+  "tagline": "Your smile is our priority",
+  "address": "123 Main Street, DHA Phase 6, Karachi, Pakistan",
+  "phone": "+92-21-111-222-333",
+  "email": "info@brightsmile.pk",
+  "website": "brightsmile.pk",
+  "hours": {
+    "Monday": "9:00 AM - 6:00 PM",
+    "Tuesday": "9:00 AM - 6:00 PM",
+    "Wednesday": "9:00 AM - 6:00 PM",
+    "Thursday": "9:00 AM - 6:00 PM",
+    "Friday": "9:00 AM - 5:00 PM",
+    "Saturday": "10:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "appointment_duration_minutes": 30,
+  "services": [
+    {
+      "name": "Teeth Cleaning (Scaling & Polishing)",
+      "duration_min": 45,
+      "price_pkr": 3000,
+      "description": "Professional removal of plaque and tartar. Recommended every 6 months."
+    },
+    {
+      "name": "Dental Filling",
+      "duration_min": 60,
+      "price_pkr": 4000,
+      "description": "Tooth-coloured composite fillings for cavities."
+    },
+    {
+      "name": "Teeth Whitening",
+      "duration_min": 60,
+      "price_pkr": 15000,
+      "description": "In-office professional whitening, results in a single session."
+    },
+    {
+      "name": "Root Canal Treatment",
+      "duration_min": 90,
+      "price_pkr": 12000,
+      "description": "Removal of infected pulp to save the natural tooth. May require 2-3 visits."
+    },
+    {
+      "name": "Tooth Extraction",
+      "duration_min": 30,
+      "price_pkr": 3500,
+      "description": "Simple or surgical extraction under local anaesthesia."
+    },
+    {
+      "name": "Dental Implant Consultation",
+      "duration_min": 45,
+      "price_pkr": 2000,
+      "description": "Consultation for permanent tooth replacement. Full implant starts at PKR 80,000."
+    },
+    {
+      "name": "Braces / Orthodontics Consultation",
+      "duration_min": 45,
+      "price_pkr": 2000,
+      "description": "Assessment for metal or clear braces. Treatment starts at PKR 45,000."
+    },
+    {
+      "name": "Emergency Dental Care",
+      "duration_min": 30,
+      "price_pkr": 2000,
+      "description": "Same-day appointments available for toothache, broken tooth, or dental injury."
+    }
+  ],
+  "doctors": [
+    {
+      "name": "Dr. Ayesha Khan",
+      "qualification": "BDS, FCPS (Orthodontics)",
+      "speciality": "General & Cosmetic Dentistry, Orthodontics",
+      "languages": ["Urdu", "English"]
+    },
+    {
+      "name": "Dr. Zain Malik",
+      "qualification": "BDS, MCPS (Endodontics)",
+      "speciality": "Root Canal & Restorative Dentistry",
+      "languages": ["Urdu", "English"]
+    }
+  ],
+  "insurance": [
+    "Jubilee Insurance",
+    "EFU Health",
+    "Allianz Care",
+    "State Life Insurance",
+    "Cash patients are always welcome"
+  ],
+  "parking": "Free parking available in the building basement",
+  "emergency_policy": "For dental emergencies during clinic hours, call directly. We accommodate same-day emergency appointments.",
+  "cancellation_policy": "Please cancel or reschedule at least 4 hours before your appointment to avoid a cancellation fee.",
+  "new_patient_info": "New patients should arrive 10 minutes early to complete a health history form. Please bring any previous dental X-rays if available.",
+  "faq": [
+    {
+      "q": "Do you see children?",
+      "a": "Yes, we treat patients of all ages including children from age 3 onwards."
+    },
+    {
+      "q": "Is parking available?",
+      "a": "Yes, free parking is available in the building basement."
+    },
+    {
+      "q": "How do I know if I need a root canal?",
+      "a": "Common signs include severe toothache, prolonged sensitivity to hot or cold, and swelling. Our doctors will assess with an X-ray. We recommend booking a consultation."
+    },
+    {
+      "q": "Do you accept insurance?",
+      "a": "Yes, we accept Jubilee Insurance, EFU Health, Allianz Care, and State Life Insurance. Cash and card payments are also welcome."
+    }
+  ]
+}

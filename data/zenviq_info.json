@@ -1,0 +1,74 @@
+{
+  "company": "Zenviq",
+  "tagline": "AI Receptionists for Healthcare Practices",
+  "description": "Zenviq builds AI-powered voice receptionists for dental clinics, GP practices, and therapy offices. Our bots answer inbound calls 24/7, handle FAQs, book appointments, and take messages — so your staff can focus entirely on patient care.",
+  "founded": "2025",
+  "headquarters": "Karachi, Pakistan",
+  "target_customers": [
+    "Dental clinics",
+    "General practitioner (GP) practices",
+    "Therapy and counselling practices",
+    "Specialist clinics"
+  ],
+  "product": {
+    "name": "Zenviq Call Bot",
+    "what_it_does": "An AI voice receptionist that answers your clinic's phone calls. It greets patients, answers common questions, books and manages appointments, and handles after-hours calls — all with a natural, conversational voice.",
+    "key_features": [
+      "24/7 inbound call handling",
+      "Appointment booking, rescheduling, and cancellations",
+      "Clinic FAQ answering (hours, location, services, insurance)",
+      "Natural voice powered by advanced AI",
+      "Works on your existing phone number via Twilio",
+      "Easy setup — no hardware required"
+    ],
+    "integrations_coming_soon": [
+      "Google Calendar",
+      "Calendly",
+      "Zoho CRM",
+      "WhatsApp follow-ups"
+    ]
+  },
+  "pricing": {
+    "starter": {
+      "price": "$199/month",
+      "includes": "1 bot, up to 500 calls per month, standard voice, email support"
+    },
+    "growth": {
+      "price": "$399/month",
+      "includes": "Up to 3 bots for different niches, up to 2000 calls per month, premium voice, priority support"
+    },
+    "enterprise": {
+      "price": "Custom — contact us",
+      "includes": "Unlimited bots, custom integrations, dedicated account manager, SLA guarantee"
+    },
+    "trial": "We offer a 14-day free trial for new practices"
+  },
+  "how_to_book_demo": "Collect the caller's name, email address, type of practice (dental, GP, therapy, etc.), and their preferred day/time for a demo call. Confirm the details and let them know the Zenviq team will reach out within 24 hours to schedule.",
+  "faq": [
+    {
+      "q": "Does it really understand natural speech?",
+      "a": "Yes. Zenviq uses state-of-the-art speech recognition and large language models — the same technology behind tools like ChatGPT — so it understands natural, conversational speech, including accents and medical terminology."
+    },
+    {
+      "q": "What happens if a patient asks something the bot can't answer?",
+      "a": "The bot politely lets the patient know it will take a message or transfer the call to a human. No patient is left without a next step."
+    },
+    {
+      "q": "Can it book directly into our existing system?",
+      "a": "We currently offer mock booking for the demo. Live integrations with Google Calendar and popular clinic management systems are coming in Q3 2026."
+    },
+    {
+      "q": "Is it secure and HIPAA-compliant?",
+      "a": "We are building toward HIPAA compliance. For the demo phase, no protected health information is stored. Full compliance documentation will be available before the enterprise launch."
+    },
+    {
+      "q": "How long does setup take?",
+      "a": "For most practices, the bot is live within 1-2 business days. We handle the Twilio and LiveKit configuration for you."
+    }
+  ],
+  "contact_email": "hello@zenviq.com",
+  "website": "zenviq.com",
+  "social": {
+    "linkedin": "linkedin.com/company/zenviq"
+  }
+}
